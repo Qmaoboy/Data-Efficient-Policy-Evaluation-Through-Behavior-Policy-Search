@@ -102,7 +102,7 @@ def IS(H:list, model_b: nn.Module, model :nn.Module, up:bool):
     reward=torch.tensor(H[2])
     g=[]
     last=0
-    gamma=0.99
+    gamma=0.95
     for r in reward.flip(0):
         last=r+gamma*last
         g.append(last)
@@ -261,7 +261,7 @@ def test(name, n_episodes=10):
                 break
         print('Episode {}\tReward: {}'.format(i_episode, running_reward))
     env.close()
-    imageio.mimsave('Acrobot.gif', frames, fps=30)
+    imageio.mimsave('gif/Acrobot.gif', frames, fps=30)
 
 
 if __name__ == '__main__':
@@ -271,5 +271,5 @@ if __name__ == '__main__':
     env = gym.make('Acrobot-v1')
     env.seed(random_seed)
     torch.manual_seed(random_seed)
-    train(lr)
+    # train(lr)
     test(f'Acrobot_{lr}.pth')

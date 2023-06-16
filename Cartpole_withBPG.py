@@ -261,7 +261,7 @@ def test(name, n_episodes=10):
                 break
         print('Episode {}\tReward: {}'.format(i_episode, running_reward))
     env.close()
-    imageio.mimsave('Carpole.gif', frames, fps=30)
+    imageio.mimsave('gif/Carpole.gif', frames, fps=30)
 
 
 if __name__ == '__main__':
