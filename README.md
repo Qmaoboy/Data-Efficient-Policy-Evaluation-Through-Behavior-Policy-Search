@@ -21,7 +21,7 @@ Finally, BPG will converge to a behavior policy that locally minimizes the varia
   
 Experiment result:  
 ![353821902_637236071658815_7902503122007230345_n](https://github.com/Qmaoboy/Data-Efficient-Policy-Evaluation-Through-Behavior-Policy-Search/assets/101452682/8756b204-94e3-44d2-8167-e01cf766890e)
-![Acrobot_result]()
+![Acrobot_result](Acrobot.gif)
 ## Task 2: Acrobot  
   random seed : 10  
   Learning Rate lr :3e-5  
