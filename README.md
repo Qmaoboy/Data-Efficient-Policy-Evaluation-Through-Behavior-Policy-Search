@@ -22,7 +22,7 @@ Finally, BPG will converge to a behavior policy that locally minimizes the varia
 Experiment result:  
 ![353821902_637236071658815_7902503122007230345_n](https://github.com/Qmaoboy/Data-Efficient-Policy-Evaluation-Through-Behavior-Policy-Search/assets/101452682/8756b204-94e3-44d2-8167-e01cf766890e)
 Result GIF:
-
+![Cartpole_gif](gif/Carpole.gif)
 ## Task 2: Acrobot  
   random seed : 10  
   Learning Rate lr :3e-5  
@@ -33,6 +33,6 @@ Result GIF:
 Experiment result:  
 ![acrobot_result](https://github.com/Qmaoboy/Data-Efficient-Policy-Evaluation-Through-Behavior-Policy-Search/assets/101452682/725b83be-0849-42fb-87b9-8481c91ec618)
 Result GIF:
-
+![Cartpole_gif](gif/Acrobot.gif)
 
 
