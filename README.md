@@ -33,6 +33,6 @@ Result GIF:
 Experiment result:  
 ![acrobot_result](https://github.com/Qmaoboy/Data-Efficient-Policy-Evaluation-Through-Behavior-Policy-Search/assets/101452682/725b83be-0849-42fb-87b9-8481c91ec618)
 Result GIF:
-![Acrobot_result](Acrobot.gif)
+
 
 
