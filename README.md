@@ -20,7 +20,7 @@ Finally, BPG will converge to a behavior policy that locally minimizes the varia
   Behavior update step n : 64  
   
 Experiment result:  
-![353821902_637236071658815_7902503122007230345_n](https://github.com/Qmaoboy/Data-Efficient-Policy-Evaluation-Through-Behavior-Policy-Search/assets/101452682/8756b204-94e3-44d2-8167-e01cf766890e)
+![353821902_637236071658815_7902503122007230345_n](https://github.com/Qmaoboy/Data-Efficient-Policy-Evaluation-Through-Behavior-Policy-Search/assets/101452682/8756b204-94e3-44d2-8167-e01cf766890e)  
 Result GIF:  
 ![Cartpole_gif](gif/Carpole.gif)
 
@@ -32,10 +32,10 @@ Result GIF:
   Scheduler : StepLR (Step size=100 ,γ = 0.9)  
   Behavior update step n : 64  
 Experiment result:  
-![acrobot_result](https://github.com/Qmaoboy/Data-Efficient-Policy-Evaluation-Through-Behavior-Policy-Search/assets/101452682/725b83be-0849-42fb-87b9-8481c91ec618)
+![acrobot_result](https://github.com/Qmaoboy/Data-Efficient-Policy-Evaluation-Through-Behavior-Policy-Search/assets/101452682/725b83be-0849-42fb-87b9-8481c91ec618)  
 
 Result GIF:  
 
-![Cartpole_gif](gif/Acrobot.gif)
+![Cartpole_gif](gif/Acrobot.gif)  
 
 
