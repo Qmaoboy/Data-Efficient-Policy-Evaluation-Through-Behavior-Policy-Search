@@ -1,5 +1,6 @@
 # Data-Efficient-Policy-Evaluation-Through-Behavior-Policy-Search
-## Replication of Paper 'Data-Efficient Policy Evaluation Through Behavior Policy Search'
+## Replication of Paper '[Data-Efficient Policy Evaluation Through Behavior Policy Search](https://arxiv.org/abs/1706.03469)'
+
 In this paper the original BPG algo as below:  
 ![algo](https://github.com/Qmaoboy/Data-Efficient-Policy-Evaluation-Through-Behavior-Policy-Search/assets/101452682/426a8085-8f73-41f9-8b00-a7a961a28728)
 ## Experiment Setting
@@ -38,4 +39,13 @@ Finally, BPG will converge to a behavior policy that locally minimizes the varia
 
 ![Cartpole_gif](gif/Acrobot.gif)  
 
-
+## CIte
+@misc{hanna2017dataefficientpolicyevaluationbehavior,
+      title={Data-Efficient Policy Evaluation Through Behavior Policy Search}, 
+      author={Josiah P. Hanna and Philip S. Thomas and Peter Stone and Scott Niekum},
+      year={2017},
+      eprint={1706.03469},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/1706.03469}, 
+}
